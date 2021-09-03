@@ -11,7 +11,7 @@ raven==6.1.0
 sklearn
 scipy==0.19.1
 lightgbm==2.0.4
-flask==0.12.2
+flask==1.0
 pandas
 pytest
 xgboost
